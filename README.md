@@ -88,4 +88,4 @@ Detailed results and visualizations are available in the notebook.
 
 ## 👥 Team
 This project was completed as a **group assignment**.  
-Each member contributed to different stages such as data preprocessing, model development, training.
+Each member contributed to different stages such as data preprocessing, model development, training, evaluation
