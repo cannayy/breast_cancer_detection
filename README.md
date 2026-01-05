@@ -13,7 +13,7 @@ The project is implemented and experimented using **Google Colab** and shared vi
 ## 🎓 Course Information
 - **Course:** Artificial Intelligence  
 - **Project Type:** Group Project  
-- **Institution:** (You can add your university name here)
+- **Institution:** Dokuz Eylul University
 
 ---
 
@@ -31,8 +31,6 @@ breast_cancer_detection_CNN/
 ├── breast_cancer_detection_CNN.ipynb # Main Google Colab notebook
 ├── README.md # Project documentation
 
-yaml
-Kodu kopyala
 
 ---
 
@@ -90,4 +88,4 @@ Detailed results and visualizations are available in the notebook.
 
 ## 👥 Team
 This project was completed as a **group assignment**.  
-Each member contributed to different stages such as data preprocessing, model development, trainin
+Each member contributed to different stages such as data preprocessing, model development, training.
